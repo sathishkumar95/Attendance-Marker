@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EWIT Attendance App</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_class_list">Class List</string>
+    <string name="title_activity_student_list">Mark the attendance</string>
+    <string name="title_activity_display_attendance">Current Attendance</string>
+</resources>
